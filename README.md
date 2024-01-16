@@ -8,6 +8,7 @@ Before it was possible to equip a personal computer, however the need of having 
 2. [RAM](#RAM)
 3. [ROM BIOS](#ROM-BIOS)
 4. [STORAGE](#STORAGE)
+5. [COMPARISION](#COMPARISION)
 
 # CPU
 
@@ -30,4 +31,12 @@ Before it was possible to equip a personal computer, however the need of having 
   * The two bays at the front of the machine can hold to two 5.25 inch floppy disk drives, storing 160KB per disk surface for a total storage of 320KB per disk. The floppy drive has a controller card inserted in the expansion slot and should be connected by his one ribbon cable with two edge connectors. The IBM floppy controller card has an external 37-pin D-sub connector for connecting external disk drives, but IBM didn't offer it for purchase until 1986. IBM PC had a port for connecting a cassette data recorder, however unlike other typical home computers at that time it was not the primary vehicle for software distribution. This is because majority of the PCs were sold with a floppy drive. This port was removed in the next PC model, the XT. After the release of XT, IBM changed[^6] the design of 5150 to add features except for the upgraded power supply. 
       [^6]: IBM did not offer a hard drive option, making it difficult to add a hard drive option. The standard PC power supply did not provide enough power to run the hard drive, and the motherboard did not support the BIOS expansion ROM required to support the hard drive controller. Also, both PC DOS and BIOS did not support hard disks.
 
+# COMPARISION
+
+Spec | IBM PC | DESKTOP-I8NJ7AO
+--- | --- | ---
+CPU | Intel 8080 processor | Intel(R) Core(TM) i3-7100U
+CPU Speed | 4.77MHZ | 2.40GHz
+RAM | 16~256KB | 12GB
+Disk Space | 320KB~640KB | 464GB
 
