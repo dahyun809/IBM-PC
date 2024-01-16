@@ -4,8 +4,8 @@ Before it was possible to equip a personal computer, however the need of having 
 
 # Table of Contents
 
-1. [CPU](1.CPU)
-2. [RAM](2.RAM)
+1. [CPU](#CPU)
+2. [RAM](#RAM)
 
 # CPU
 
