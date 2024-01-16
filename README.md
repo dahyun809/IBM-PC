@@ -6,7 +6,7 @@ Before it was possible to equip a personal computer, however the need of having 
 
 1. [CPU](#CPU)
 2. [RAM](#RAM)
-3. [ROM BIOS](#ROMBIOS)
+3. [ROM BIOS](#ROM-BIOS)
 4. [STORAGE](#STORAGE)
 
 # CPU
