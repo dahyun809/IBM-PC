@@ -2,6 +2,9 @@
 Before it was possible to equip a personal computer, however the need of having one did not stand out much to people. The introduction of IBM 5150 Personal Computer changed this view towards computers by enabling users to process texts and play games expanding the use of a computer for entertainment purposes. It is the starting point of the x86[^1] architecture that is commonly used today. In other words, it is the direct founder of the PC we use today.
 [^1]: Developed by the Intel Corporation, x86 is an instruction set architecture (ISA) series for computer processors. It defines how a processor handles and executes different instructions passed from the operating system (OS) and software programs. IBM PC Compatible ⊂ Models x86 Architecture
 
+![IBM PC](https://github.com/dahyun809/IBM-PC/assets/156183440/59ac911b-dd5b-4d3b-9b96-c54dffb5acd9)
+
+
 # Table of Contents
 
 1. [CPU](#CPU)
