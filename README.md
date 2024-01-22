@@ -3,9 +3,7 @@ Before it was possible to equip a personal computer, however the need of having 
 
 [^1]: Developed by the Intel Corporation, x86 is an instruction set architecture (ISA) series for computer processors. It defines how a processor handles and executes different instructions passed from the operating system (OS) and software programs. IBM PC Compatible ⊂ Models x86 Architecture
 
-
-![IBM PC](https://github.com/dahyun809/IBM-PC/blob/main/IBM%20PC.jpg)
-
+![IBM PC](IBM%20PC.jpg)
 
 # Table of Contents
 
